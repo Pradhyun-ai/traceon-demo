@@ -1,4 +1,4 @@
-# Traceon demo experiment
+# Traceon demo experiments
 
 A tiny shopping-cart library with 4 deliberate bugs and 1 missing feature.
 
